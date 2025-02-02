@@ -1,0 +1,33 @@
+body {
+    @apply bg-pink-50 min-h-screen;
+  }
+  
+  .btn {
+    @apply bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-6 rounded-xl 
+      text-xl transition duration-300 ease-in-out transform hover:scale-105 shadow-lg 
+      focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-opacity-50;
+  }
+  
+  .btn-pink {
+    @apply bg-pink-500 hover:bg-pink-600;
+  }
+  
+  .input {
+    @apply block w-full px-4 py-3 text-gray-900 border border-gray-300 
+      rounded-xl shadow-sm bg-white/90 backdrop-blur-sm
+      focus:ring-2 focus:ring-red-500 focus:border-red-500 focus:outline-none;
+  }
+  
+  .label {
+    @apply block text-gray-700 text-sm font-medium mb-2;
+  }
+  
+  .form-group {
+    @apply mb-6;
+  }
+  
+  .form-container {
+    @apply bg-white shadow-xl rounded-2xl p-8 mx-auto max-w-4xl;
+  }
+  
+  
