@@ -26,6 +26,7 @@ npm start
 - Add more search keywords to remove for if the site that comes up is blocked by a payment
 - Change the city url if u want to set it up for another city 
 - The date will be sent to the email on the account which you can cancel if wanted :D 
+- The data was originally utilizing the cache so it may take some time for it to work! 
 
 
 2. DATE ACTIVITY GENERATION
