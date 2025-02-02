@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@browserbasehq/stagehand": "^1.11.0",
+    "dotenv": "^16.4.7",
+    "electron": "^34.0.2",
+    "playwright": "^1.50.1",
+    "stagehand": "^1.0.1"
+  },
+  "name": "e-date",
+  "version": "1.0.0",
+  "description": "a bot to create dates ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "amel \"the goat\"",
+  "license": "ISC"
+}
