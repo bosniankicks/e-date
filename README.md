@@ -16,7 +16,7 @@ npm install
 npm start 
 ```
 
-```bash
+```text
 
 1. DATE NIGHT RESERVATION
 
